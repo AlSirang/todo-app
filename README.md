@@ -2,7 +2,9 @@
 A todo app created with ejs, nodejs/express and mongo.
 
 # How to use this app?
-To run this app locally at http://localhost:3000 follow the following steps. Download or clone this app on your machine. Goto the location where you saved or download the repository.
+To run this app locally at http://localhost:3000 follow the following steps. 
+
+Download or clone this app on your machine. Goto the location where you saved or download the repository.
 
 ## npm i or install
 In your local repository open terminal and type npm i or npm install to install the required libraries.
